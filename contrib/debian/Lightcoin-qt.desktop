@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Lightcoin Core
+Comment=Lightcoin P2P Cryptocurrency
+Comment[fr]=Lightcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Lightcoin, eşten eşe kriptografik sanal para birimi
+Exec=Lightcoin-qt %u
+Terminal=false
+Type=Application
+Icon=Lightcoin128
+MimeType=x-scheme-handler/Lightcoin;
+Categories=Office;Finance;
+StartupWMClass=Lightcoin-qt

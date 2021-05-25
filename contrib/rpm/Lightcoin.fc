@@ -1,0 +1,8 @@
+/usr/bin/Lightcoin-cli		--	gen_context(system_u:object_r:Lightcoin_exec_t,s0)
+/usr/sbin/Lightcoind		--	gen_context(system_u:object_r:Lightcoin_exec_t,s0)
+/usr/lib(64)?/Lightcoin/Lightcoind		--	gen_context(system_u:object_r:Lightcoin_exec_t,s0)
+
+/etc/Lightcoin(/.*)?		gen_context(system_u:object_r:Lightcoin_conf_t,s0)
+/var/lib/Lightcoin(/.*)?		gen_context(system_u:object_r:Lightcoin_var_lib_t,s0)
+
+(/var)?/run/Lightcoind(/.*)?   gen_context(system_u:object_r:Lightcoin_var_run_t,s0)

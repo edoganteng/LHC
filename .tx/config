@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[LightcoinNodes-translations.qt-translation-43x]
+file_filter = src/qt/locale/Lightcoin_<lang>.ts
+source_file = src/qt/locale/Lightcoin_en.ts
+source_lang = en

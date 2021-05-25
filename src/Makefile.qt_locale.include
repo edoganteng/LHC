@@ -1,0 +1,15 @@
+QT_TS = \
+  qt/locale/Lightcoin_de.ts \
+  qt/locale/Lightcoin_en.ts \
+  qt/locale/Lightcoin_en_US.ts \
+  qt/locale/Lightcoin_es.ts \
+  qt/locale/Lightcoin_es_ES.ts \
+  qt/locale/Lightcoin_fr_FR.ts \
+  qt/locale/Lightcoin_hr_HR.ts \
+  qt/locale/Lightcoin_it.ts \
+  qt/locale/Lightcoin_ko_KR.ts \
+  qt/locale/Lightcoin_nl.ts \
+  qt/locale/Lightcoin_pl.ts \
+  qt/locale/Lightcoin_ru.ts \
+  qt/locale/Lightcoin_tr.ts \
+  qt/locale/Lightcoin_zh_CN.ts
