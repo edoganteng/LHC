@@ -14,7 +14,7 @@ More information at [Light-coin.org](http://Light-coin.org/) Join the community 
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoW Phase)</td><td>50 LHC</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>50000000 LHC</td></tr>
-<tr><td>Premine</td><td>100,000 LHC*</td></tr>
+<tr><td>Premine</td><td>42000000 LHC*</td></tr>
 </table>
 
 ### Reward Distribution
